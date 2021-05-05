@@ -13,5 +13,8 @@ Metaphor is an open-source antivirus written in C#.
 | License | MIT |
 | Package Needed | [Bunifu UI](https://bunifuframework.com/) - But you can get it cracked, Bunifu_UI_v1.52
 
+## Virus Signatures
+I will probably need a lot of help with these
+
 ## License
-USB Disk Protector is free software, and is released under the terms of the MIT Public License. See MIT for complete license
+Metaphor Antivirus is free software, and is released under the terms of the MIT Public License. See MIT for complete license
