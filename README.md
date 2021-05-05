@@ -3,15 +3,15 @@ Metaphor is an open-source antivirus written in C#.
 
 | Name | Details |
 | ------ | ------ |
-| Project Name | USB Disk Protector |
-| Project Author | Md. Hasibur Rashid |
-| Project Timeline | 2013-14 |
+| Project Name | Metaphor Antivirus |
+| Project Author | WtfIsThis |
+| Project Timeline | 2021 - 2022 |
 | Programming Language | c# |
-| Technology | Microsoft Windows Presentation Foundation (WPF) |
+| Technology | Windows Forms .NET |
 | Platform | Windows |
-| Version | 2.0 |
+| Version | 0.2 |
 | License | MIT |
-| Package Needed | [Bunifu UI](https://bunifuframework.com/) 'But you can get it cracked, Bunifu_UI_v1.52
+| Package Needed | [Bunifu UI](https://bunifuframework.com/) - But you can get it cracked, Bunifu_UI_v1.52
 
 ## License
 USB Disk Protector is free software, and is released under the terms of the MIT Public License. See MIT for complete license
