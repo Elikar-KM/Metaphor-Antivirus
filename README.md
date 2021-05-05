@@ -1,7 +1,7 @@
 # Metaphor-Antivirus
 ![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/Main.png?raw=true)
 ## Details
-Metaphor is an open-source antivirus written in C#.*soon*
+Metaphor is an open-source antivirus written in C#.
 | Name | Details |
 | ------ | ------ |
 | Project Name | Metaphor Antivirus |
