@@ -18,6 +18,7 @@ Metaphor is an open-source antivirus written in C#.
 
 ## Virus Signatures
 I will probably need a lot of help with these
+! Right now i am using md5 hashes, but i will add in the near future the virustotal API
 
 ## Preview      
 ### - CPU & RAM usage                           
@@ -29,5 +30,10 @@ I will probably need a lot of help with these
 ## Menu Preview           
 ### - Soon
 
-## License
+## License Information
 Metaphor Antivirus is free software, and is released under the terms of the MIT Public License. See MIT for complete license
+
+## Disclaimer
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+While the public version of this antivirus is still in early development, the type names and class interfaces are subject to change.
