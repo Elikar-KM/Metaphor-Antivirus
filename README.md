@@ -16,6 +16,9 @@ Metaphor is an open-source antivirus written in C#.
 | References | Add Microsoft.VisualStudio|
 | Build | Debug - Any CPU |
 
+## Features           
+### - Soon
+
 ## Virus Signatures
 I will probably need a lot of help with these
 ! Right now i am using md5 hashes, but i will add in the near future the virustotal API and a new database
