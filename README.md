@@ -23,7 +23,7 @@ Metaphor is an open-source antivirus written in C#.
 I will probably need a lot of help with these
 ! Right now i am using md5 hashes and clamAV signature db, but i will add in the near future the virustotal API && Yara
 
-## Preview      
+## Tools Preview      
 ### - CPU & RAM usage                           
 ![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/CpuAndRamUsage.png?raw=true)
 
