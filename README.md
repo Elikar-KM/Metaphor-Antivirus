@@ -25,13 +25,20 @@ I will probably need a lot of help with these
 
 ## Preview      
 ### - CPU & RAM usage                           
-![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/RamAndCpu.png?raw=true)
+![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/CpuAndRamUsage.png?raw=true)
 
 ### - Process Manager                         
-![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/AllProcesses.png?raw=true)
+![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/processManager.png?raw=true)
               
 ## Menu Preview           
-### - Soon
+### - Dashboard        
+![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/Main.png?raw=true)
+
+### - Tools
+![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/tools.png?raw=true)
+          
+### - Scan
+![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/scan.png?raw=true)
 
 ## License Information
 Metaphor Antivirus is free software, and is released under the terms of the MIT Public License. See MIT for complete license
