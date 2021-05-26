@@ -31,14 +31,15 @@ I will probably need a lot of help with these
 ![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/processManager.png?raw=true)
               
 ## Menu Preview           
-### - Dashboard        
-![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/Main.png?raw=true)
 
 ### - Tools
 ![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/tools.png?raw=true)
           
 ### - Scan
 ![alt text](https://github.com/Wtf-Is-This-x1337/Metaphor-Antivirus/blob/main/Images/scan.png?raw=true)
+
+### - Options 
+SOON
 
 ## License Information
 Metaphor Antivirus is free software, and is released under the terms of the MIT Public License. See MIT for complete license
