@@ -27,12 +27,13 @@ Icons from: https://icon-icons.com/
 - List with recommended AVs and Websites
 - Auto-Update check
 ### In the next update:
-- MD5 Hash changer (SOON)
-- Encryption tools -> MD5, AES, Base64 (SOON)
-- Decryption tools -> MD5, AES, Base64 (SOON)
-- Interface Traffic Watch (SOON)
+- MD5 Hash changer
+- Encryption tools -> MD5, AES, Base64
+- Decryption tools -> MD5, AES, Base64
+- Interface Traffic Watch + beta firewall
 ### In the near future:
 - Virus database
+- Firewall
 - Detect phishing emails
 - Detect phishing links
 - Yara detection
