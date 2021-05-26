@@ -10,6 +10,7 @@ Icons from: https://icon-icons.com/
 | Project Timeline | 2021 - 2022 |
 | Programming Language | c# |
 | Technology | Windows Forms .NET |
+| Virus detection method | Yara and APIs |
 | Platform | Windows |
 | Version | 0.2 |
 | License | MIT |
