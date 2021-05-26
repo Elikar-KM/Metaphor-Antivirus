@@ -17,7 +17,26 @@ Metaphor is an open-source antivirus written in C#.
 | Build | Debug - Any CPU |
 
 ## Features           
-### - Soon
+### Already added:
+- Show cpu & ram usage
+- Access to computer informations
+- File hash check
+- Process manager -> Run commands, refresh and kill tasks, task proprieties and auto-search online for processes that looks suspicious
+- Disable windows defender 
+- List with recommended AVs and Websites
+- Auto-Update check
+### In the next update:
+- MD5 Hash changer (SOON)
+- Encryption tools -> MD5, AES, Base64 (SOON)
+- Decryption tools -> MD5, AES, Base64 (SOON)
+- Interface Traffic Watch (SOON)
+### In the near future:
+- Virus database
+- Detect phishing emails
+- Detect phishing links
+- Yara detection
+- Password manager
+- More tools
 
 ## Virus Signatures
 I will probably need a lot of help with these
