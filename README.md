@@ -28,6 +28,7 @@ Icons from: https://icon-icons.com/
 - List with recommended AVs and Websites
 - Auto-Update check
 ### In the next update:
+- New yara rules for malware
 - MD5 Hash changer
 - Encryption tools -> MD5, AES, Base64
 - Decryption tools -> MD5, AES, Base64
