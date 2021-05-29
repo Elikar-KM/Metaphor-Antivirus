@@ -33,6 +33,7 @@ Icons from: https://icon-icons.com/
 - Encryption tools -> MD5, AES, Base64
 - Decryption tools -> MD5, AES, Base64
 - Interface Traffic Watch + beta firewall
+- Hex Editor
 ### In the near future:
 - Virus database
 - Firewall
